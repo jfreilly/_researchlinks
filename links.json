@@ -1,0 +1,20 @@
+{
+    "links": [
+      {
+        "URL": "https://www.bdmhistoricalrecords.dia.govt.nz/search",
+        "Name": "NZ Births Deaths and Marriages online"
+      },
+      {
+        "URL": "https://www.bdmhistoricalrecords.dia.govt.nz/search/search?path=%2FqueryEntry.m%3Ftype%3Dbirths",
+        "Name": "NZ BDM - Births"
+      },
+      {
+        "URL": "https://www.bdmhistoricalrecords.dia.govt.nz/search/search?path=%2FqueryEntry.m%3Ftype%3Ddeaths",
+        "Name": "NZ BDM - Deaths"
+      },
+      {
+        "URL": "https://www.bdmhistoricalrecords.dia.govt.nz/search/search?path=%2FqueryEntry.m%3Ftype%3Dmarriages",
+        "Name": "NZ BDM - Marriages"
+      }
+    ]
+  }
